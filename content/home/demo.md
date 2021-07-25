@@ -2,7 +2,7 @@
 advanced:
   css_style: ""
   css_class: ""
-widget: 
+widget: blank
 widget_id: Andy (Guanhong) Liu
 headless: true
 weight: 15
@@ -24,4 +24,3 @@ design:
       - 20px
       - "0"
 ---
-
