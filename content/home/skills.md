@@ -23,7 +23,7 @@ feature:
   icon_pack: fab
   name: Java
 - icon: language
-  icon_pack: fab
+  icon_pack: fas
   name: English, Mandarin, Japanese
 - icon: camera-retro
   icon_pack: fas
