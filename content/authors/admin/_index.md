@@ -23,6 +23,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/andy-guanhong-liu
+  - display:
+      header: false
+    icon_pack: fab
+    icon: medium
+    link: https://medium.com/@andyliu2000nb/about
 organizations:
   - name: University of California, Berkeley
     url: https://arthistory.berkeley.edu/
