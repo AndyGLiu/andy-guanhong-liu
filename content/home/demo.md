@@ -1,26 +1,19 @@
 ---
-advanced:
-  css_style: ""
-  css_class: ""
+# An instance of the Blank widget with a Gallery page element.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
-widget_id: Andy (Guanhong) Liu
+
+# This file represents a page section.
 headless: true
-weight: 15
-title: Andy (Guanhong) Liu
-subtitle: ""
-active: true
+
+# Order that this section appears on the page.
+weight: 66
+
+title: Gallery
+subtitle:
+
 design:
-  columns: "2"
-  background:
-    gradient_start: rgba(31, 111, 31, 0)
-    gradient_end: rgba(94, 152, 94, 0.96)
-    text_color_light: true
-    image: img_4488.jpg
-    image_darken: ""
-  spacing:
-    padding:
-      - 20px
-      - "0"
-      - 20px
-      - "0"
+  columns: '2'
 ---
+
+{{< gallery album="themes" >}}
