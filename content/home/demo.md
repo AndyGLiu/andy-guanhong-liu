@@ -5,7 +5,7 @@ advanced:
 widget: 
 widget_id: Andy (Guanhong) Liu
 headless: true
-weight: 30
+weight: 15
 title: Andy (Guanhong) Liu
 subtitle: ""
 active: true
