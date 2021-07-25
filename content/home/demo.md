@@ -15,7 +15,7 @@ design:
     gradient_start: rgba(0, 100, 0, 0)
     gradient_end: rgba(34, 139, 34, 0)
     text_color_light: false
-    image: cal-berkeley-logo.jpeg
+    image: img_4488.jpg
   spacing:
     padding:
       - 20px
