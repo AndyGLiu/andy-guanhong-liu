@@ -1,7 +1,7 @@
 ---
 title: Andy (Guanhong) Liu
 role: Chinese Art Historian
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: My research interests include Chinese art history and digital humanities.
 interests:
   - Artificial Intelligence
