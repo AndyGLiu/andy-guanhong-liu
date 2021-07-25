@@ -11,22 +11,22 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/figolgh
-  - icon: academia
-    icon_pack: ai
-    link: https://berkeley.academia.edu/AndyLiu?from_navbar=true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/AndyGLiu
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/andy-guanhong-liu
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/figolgh
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AndyGLiu
+  - icon: academia
+    icon_pack: ai
+    link: https://berkeley.academia.edu/AndyLiu?from_navbar=true
   - display:
       header: false
     icon_pack: fab
-    icon: medium
+    icon: medium-m
     link: https://medium.com/@andyliu2000nb/about
 organizations:
   - name: University of California, Berkeley
