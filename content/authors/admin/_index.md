@@ -4,9 +4,10 @@ role: Chinese Art Historian
 avatar_filename: avatar.jpg
 bio: My research interests include Chinese art history and digital humanities.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - History of Chinese Art and Architecture
+  - History of Photography
+  - Data Science
+  - Digital Humanities
 social:
   - icon: envelope
     icon_pack: fas
