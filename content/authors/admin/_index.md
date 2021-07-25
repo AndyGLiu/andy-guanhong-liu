@@ -42,4 +42,4 @@ Andy (Guanhong) Liu is a junior studying history of art and data science at UC, 
 
 刘冠宏是加州大学伯克利分校的大三学生，主修艺术史和数据科学。他的研究领域是中国艺术与建筑史，并对如何运用数据科学的知识来建造数据课等数字人文工具以辅助艺术史研究感兴趣。同时，他精通中国艺术创造，例如书法、越窑青瓷，多年的艺术熏陶也帮助他在中国艺术史和视觉艺术方面产生一个更深层次的见解。在过去，他曾在Phoebe A. Hearst人类学博物馆和加州大学伯克利分校艺术博物馆和太平洋电影资料馆实习，这些经历为他走上艺术史职业道路做好了准备。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}." "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1oeYqOmNTLYHMBG0CyfWf3989XJ64nOZL/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
