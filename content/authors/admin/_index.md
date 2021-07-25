@@ -1,77 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Andy (Guanhong) Liu
+role: Chinese Art Historian
+avatar_filename: img_4577.jpg
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/figolgh
+  - icon: academia
+    icon_pack: fas
+    link: https://berkeley.academia.edu/AndyLiu?from_navbar=true
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AndyGLiu
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/andy-guanhong-liu
+organizations:
+  - name: University of California, Berkeley
+    url: https://arthistory.berkeley.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: BAs in Art History, Criticism, and Conservation
+      institution: University of California, Berkeley
+      year: 2023
+    - course: BAs in Data Science
+      institution: University of California, Berkeley
+      year: 2021
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+Andy (Guanhong) Liu is a junior studying history of art and data science at UC, Berkeley. He is specifically interested in Chinese History of Art and Architecture and would like to apply the knowledge of data science to develop databases and other digital humanities tools in helping his research within the field of art history. Meanwhile, he masters the Chinese art production, such as Chinese calligraphy and Yue Ware Celadon, that helps him to form a deep insight of Chinese art history and visual culture. He previously worked at Phoebe A. Hearst Museum of Anthropology and Berkeley Art Museum and Pacific Film Archive which prepares him to pursue an art history career path.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+刘冠宏是加州大学伯克利分校的大三学生，主修艺术史和数据科学。他的研究领域是中国艺术与建筑史，并对如何运用数据科学的知识来建造数据课等数字人文工具以辅助艺术史研究感兴趣。同时，他精通中国艺术创造，例如书法、越窑青瓷，多年的艺术熏陶也帮助他在中国艺术史和视觉艺术方面产生一个更深层次的见解。在过去，他曾在Phoebe A. Hearst人类学博物馆和加州大学伯克利分校艺术博物馆和太平洋电影资料馆实习，这些经历为他走上艺术史职业道路做好了准备。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
