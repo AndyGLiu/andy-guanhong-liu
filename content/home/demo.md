@@ -2,10 +2,10 @@
 advanced:
   css_style: ""
   css_class: ""
-widget: 15
+widget: 
 widget_id: Andy (Guanhong) Liu
 headless: true
-weight: 15
+weight: 30
 title: Andy (Guanhong) Liu
 subtitle: ""
 active: true
