@@ -25,57 +25,32 @@ design:
 ---
 ## Welcome to my personal website.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-
-
-
-
-
-
-
-
-
-
-
-
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 Image at Master Shi Zhen's office.
