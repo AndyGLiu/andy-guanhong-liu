@@ -23,22 +23,6 @@ design:
       - 20px
       - "0"
 ---
-## Welcome to my personal website.
-
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
