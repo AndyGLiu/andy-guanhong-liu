@@ -1,10 +1,14 @@
 ---
+advanced:
+  css_style: ""
+  css_class: ""
 widget: blank
 widget_id: Andy (Guanhong) Liu
 headless: true
 weight: 15
 title: Andy (Guanhong) Liu
 subtitle: ""
+active: true
 design:
   columns: ""
   background:
@@ -19,10 +23,5 @@ design:
       - "0"
       - 20px
       - "0"
-advanced:
-  css_style: ""
-  css_class: ""
-active: true
 ---
 
-{{< gallery album="themes" >}}
