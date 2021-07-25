@@ -34,7 +34,7 @@ education:
       year: 2023
     - course: BAs in Data Science
       institution: University of California, Berkeley
-      year: 2021
+      year: 2023
 email: ""
 superuser: true
 highlight_name: false
