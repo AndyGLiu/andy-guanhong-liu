@@ -22,12 +22,18 @@ feature:
 - icon: java
   icon_pack: fab
   name: Java
+- icon: laptop-code
+  icon_pack: fas
+  name: HTML, Website Design
 - icon: language
   icon_pack: fas
   name: English, Mandarin, Japanese
 - icon: camera-retro
   icon_pack: fas
   name: Photography
+- icon: drone-alt
+  icon_pack: far
+  name: Drone Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
