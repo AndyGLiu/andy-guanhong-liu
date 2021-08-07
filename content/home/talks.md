@@ -3,7 +3,7 @@ widget: pages
 widget_id: a
 headless: true
 weight: 70
-title: Essays and Publications
+title: ""
 subtitle: null
 content:
   page_type: event
