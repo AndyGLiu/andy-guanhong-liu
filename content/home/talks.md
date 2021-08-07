@@ -1,5 +1,5 @@
 ---
-widget: post
+widget: pages
 widget_id: Talks
 headless: true
 weight: 110
