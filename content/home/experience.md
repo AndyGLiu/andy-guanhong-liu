@@ -31,16 +31,6 @@ experience:
     date_end: ''
     description: Develop a digital catalogue for Byzantine Ivories Imagebank project and produce 3D images of artworks by photogrammetry.
   
-  - title: Collections Apprenticeship
-    company: Phoebe A. Hearst Museum of Anthropology
-    company_url: ''
-    company_logo: org-x
-    location: UC Berkeley
-    date_start: '2020-01-01'
-    date_end: '2020-05031'
-    description: Contribute to the care, organization, management and documentation of museum's vast collections.
-  
-  
 
 design:
   columns: '2'
