@@ -35,7 +35,7 @@ summary: Wang Mian, a later Yuan
   dynasty scholar, is the most pivotal and representational artist for the plum
   painting tradition.
 
-tags: ["Essays * Writings"]
+tags: ["Essays"]
 
 # Display this page in the Featured widget?
 featured: true
