@@ -47,9 +47,7 @@ experience:
     location: UC Berkeley
     date_start: '2019-09-01'
     date_end: ''
-    description: |2-
-      - Five Tables of Floorpan
-      - Five Tables of the Indian Ocean
+    description:
 
 design:
   columns: '2'
