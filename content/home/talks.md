@@ -1,5 +1,5 @@
 ---
-widget: talk
+widget: post
 widget_id: Talks
 headless: true
 weight: 110
