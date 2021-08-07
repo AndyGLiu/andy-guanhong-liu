@@ -11,8 +11,8 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Digital Humanities
+      tag: Digital Humanities
     - name: Other
       tag: Demo
 design:
