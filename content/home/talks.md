@@ -3,8 +3,8 @@ widget: pages
 widget_id: a
 headless: true
 weight: 110
-title: ""
-subtitle: Talks / Conference
+title: Talks / Conference
+subtitle: ""
 content:
   page_type: event
   count: 5
