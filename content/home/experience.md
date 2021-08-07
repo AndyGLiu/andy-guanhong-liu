@@ -26,7 +26,7 @@ experience:
   - title: Collections Apprenticeship, URAP Program
     company: Phoebe A. Hearst Museum of Anthropology
     company_url: ''
-    company_logo: org-P.H
+    company_logo: org-PH
     location: UC Berkeley
     date_start: '2020-01-01'
     date_end: '2020-5-31'
@@ -35,7 +35,7 @@ experience:
   - title: Art Curatorial Associate
     company: Berkeley Art Museum and Pacific Film Archive
     company_url: ''
-    company_logo: org-BAMPFA
+    company_logo: org-BA
     location: UC Berkeley
     date_start: '2019-09-01'
     date_end: ''
@@ -46,7 +46,7 @@ experience:
   - title: Research Assistant
     company: Visualization Lab for Digital Art History
     company_url: ''
-    company_logo: org-VLab
+    company_logo: org-VL
     location: UC Berkeley
     date_start: '2021-01-01'
     date_end: ''
@@ -66,7 +66,6 @@ experience:
         #* Modelling
         #* Deploying
         
-
 design:
-  columns: '2'
+  columns: '3'
 ---
