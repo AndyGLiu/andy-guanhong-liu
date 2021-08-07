@@ -15,7 +15,6 @@ item:
     date_start: 2021-08-01
     description: ""
     organization: LinkedInLearning
-    company_logo = linkedin-learning.svg
     organization_url: https://www.linkedin.com/learning/
     title: Photogrammetry for Product Design and AEC
     url: https://www.linkedin.com/learning/photogrammetry-for-product-design-and-aec?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning
