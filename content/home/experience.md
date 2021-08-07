@@ -30,14 +30,17 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: Develop a digital catalogue for Byzantine Ivories Imagebank project and produce 3D images of artworks by photogrammetry.
-  - title: Research Assistant
-    company: Visualization Lab for Digital Art History
+  
+  - title: Collections Apprenticeship
+    company: Phoebe A. Hearst Museum of Anthropology
     company_url: ''
     company_logo: org-gc
     location: UC Berkeley
-    date_start: '2021-01-01'
-    date_end: ''
-    description: Develop a digital catalogue for Byzantine Ivories Imagebank project and produce 3D images of artworks by photogrammetry.
+    date_start: '2020-01-01'
+    date_end: '2020-05-31'
+    description: |2-
+        * Five Tables of Floorpan
+        * Five Tables of the Indian Ocean
 
 design:
   columns: '2'
