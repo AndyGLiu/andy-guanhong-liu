@@ -4,7 +4,7 @@ widget_id: a
 headless: true
 weight: 110
 title: Talks / Conference
-subtitle: ""
+subtitle: Talk
 content:
   page_type: event
   count: 5
