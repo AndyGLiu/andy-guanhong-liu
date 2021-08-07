@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: blank
 widget_id: Talks
 headless: true
 weight: 110
@@ -21,4 +21,3 @@ content:
 design:
   view: 2
 ---
-
