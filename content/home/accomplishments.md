@@ -26,13 +26,5 @@ subtitle: null
 design:
   columns: "2"
   background:
-    image: linkedin-learning.svg
+    image: ""
 ---
-- certificate_url: https://www.linkedin.com/learning/
-  date_end: ""
-  date_start: "2021-08-01"
-  description: ""
-  organization: LinkedIn Learning
-  organization_url: https://www.linkedin.com/learning/
-  title: 3D Scanning with a Camera
-  url: "https://www.linkedin.com/learning/3d-scanning-with-a-camera-2?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning"
