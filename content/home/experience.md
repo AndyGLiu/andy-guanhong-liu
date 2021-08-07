@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: Develop a digital catalogue for Byzantine Ivories Imagebank project and produce 3D images of artworks by photogrammetry.
   
-  - title: Collections Apprenticeship, URAP Program
+  - title: Collections Apprenticeship
     company: Phoebe A. Hearst Museum of Anthropology
     company_url: ''
     company_logo: org-gc
@@ -39,8 +39,6 @@ experience:
     date_start: '2020-01-01'
     date_end: '2020-5-31'
     description: Contribute to the care, organization, management and documentation of museum's vast collections.
-    # description: |2-
-      # Responsibilities include:
        
   - title: Art Curatorial Associate
     company: Berkeley Art Museum and Pacific Film Archive
@@ -49,7 +47,7 @@ experience:
     location: UC Berkeley
     date_start: '2019-09-01'
     date_end: ''
-    description: >-
+    description: |2-
       - Five Tables of Floorpan
       - Five Tables of the Indian Ocean
 
