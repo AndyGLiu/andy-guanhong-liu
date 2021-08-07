@@ -30,8 +30,8 @@ item:
   description: ""
   organization: LinkedIn Learning
   organization_url: https://www.linkedin.com/learning/
-  title: Photogrammetry for Product Design and AEC
-  url: ""
+  title: 3D Scanning with a Camera
+  url: "https://www.linkedin.com/learning/3d-scanning-with-a-camera-2?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning"
 
 # - certificate_url: https://www.edx.org
   # date_end: ""
