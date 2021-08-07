@@ -20,11 +20,6 @@ url_source: ""
 url_video: ""
 tags:
   - Essays
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: true
-  filename: 1.jpg
 date: 2021-08-07T13:34:42.841Z
 url_slides: ""
 title: Wang Mian and Ink Plum Paintings
