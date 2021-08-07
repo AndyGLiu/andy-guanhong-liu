@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: "8.7"
+widget_id: Recourse Collections
 headless: true
 weight: 90
-title: Recent Posts
+title: Recourse Collections
 subtitle: null
 content:
   page_type: post
