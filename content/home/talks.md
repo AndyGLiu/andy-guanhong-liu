@@ -1,11 +1,10 @@
 ---
-widget: blank
+widget: pages
 widget_id: Talks
 headless: true
 weight: 110
 title: Talks
 subtitle: Lecture / Conference / Medium
-active: true
 content:
   page_type: post
   count: 5
@@ -20,8 +19,6 @@ content:
   offset: 0
   order: desc
 design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
+  view: 2
 ---
+
