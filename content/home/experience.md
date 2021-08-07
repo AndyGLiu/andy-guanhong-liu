@@ -36,15 +36,16 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Art Curatorial Associate
+    company: Berkeley Art Museum and Pacific Film Archive
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: UC Berkeley
+    date_start: '2019-09-01'
+    date_end: ''
+    description: >-
+      - Five Tables of Floorpan
+      - Five Tables of the Indian Ocean
 design:
   columns: '2'
 ---
