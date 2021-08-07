@@ -38,6 +38,15 @@ experience:
     location: UC Berkeley
     date_start: '2020-01-01'
     date_end: '2020-05-31'
+    description: Contribute to the care, organization, management and documentation of museum's vast collections.
+  
+  - title: Art Curatorial Associate
+    company: Berkeley Art Museum and Pacific Film Archive
+    company_url: ''
+    company_logo: org-gc
+    location: UC Berkeley
+    date_start: '2019-09-01'
+    date_end: ''
     description: |2-
         * Five Tables of Floorpan
         * Five Tables of the Indian Ocean
