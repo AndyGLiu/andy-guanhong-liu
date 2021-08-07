@@ -6,6 +6,7 @@ abstract: Wang Mian, a later Yuan dynasty scholar, is commonly acknowledged as
   The use of the term “ink plum” here, instead of blooming plum, articulates a
   significant category of Chinese painting in which Wang Mian was a prominent
   figure.
+url_pdf: https://github.com/AndyGLiu/andy-guanhong-liu/blob/master/content/publication/wang-mian-and-ink-plum-paintings/Wang%20Mian%20and%20Ink%20Plum%20Paintings.pdf
 publication_types:
   - "7"
 authors:
@@ -19,6 +20,11 @@ url_source: ""
 url_video: ""
 tags:
   - Essays
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
+  filename: 1.jpg
 date: 2021-08-07T13:34:42.841Z
 url_slides: ""
 title: Wang Mian and Ink Plum Paintings
