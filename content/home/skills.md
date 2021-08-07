@@ -32,7 +32,7 @@ feature:
   icon_pack: fas
   name: Photography
 - icon: drone-alt
-  icon_pack: far
+  icon_pack: fas
   name: Drone Photography
 
 # Uncomment to use emoji icons.
