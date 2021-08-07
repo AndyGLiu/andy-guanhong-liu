@@ -57,9 +57,6 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.comuse\
-    um.com%2Fproduct%2Fwang-mian-ink-plum%2F&psig=AOvVaw3WlrOIdmZpO5vk6OO6pYti&\
-    ust=1628427066517000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDbx9j5nvICFQAA\
-    AAAdAAAAABAS)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
