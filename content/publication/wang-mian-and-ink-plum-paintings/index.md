@@ -19,7 +19,7 @@ publishDate: "2021-02-01"
 # 7 = Thesis; 8 = Patent
 publication_types: ["7"]
 
-abstract: It is commonly acknowledged that Wang Mian, a later Yuan dynasty scholar, is the most pivotal and representational artist for the plum painting tradition. James Cahill refers Wang Mian to “the most famous of Yuan plum painters” ; Maggie Bickford titles him as the “founder of the modern ink plum tradition.”  The use of the term “ink plum” here, instead of blooming plum, articulates a significant category of Chinese painting in which Wang Mian was a prominent figure.
+abstract: Wang Mian, a later Yuan dynasty scholar, is commonly acknowledged as the most pivotal and representational artist for the plum painting tradition. James Cahill refers Wang Mian to “the most famous of Yuan plum painters”; Maggie Bickford titles him as the “founder of the modern ink plum tradition.” The use of the term “ink plum” here, instead of blooming plum, articulates a significant category of Chinese painting in which Wang Mian was a prominent figure.
 
 # Summary. An optional shortened abstract.
 summary: Wang Mian, a later Yuan dynasty scholar, is the most pivotal and representational artist for the plum painting tradition.
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://www.comuseum.com/wp-content/uploads/2016/05/wang-mian_ink-plum.jpg)'
   focal_point: ""
   preview_only: false
 
