@@ -23,6 +23,16 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
+item:
+- certificate_url: https://www.linkedin.com/learning/
+  date_end: ""
+  date_start: "2021-08-01"
+  description: ""
+  organization: LinkedIn Learning
+  organization_url: https://www.linkedin.com/learning/
+  title: Photogrammetry for Product Design and AEC
+  url: ""
+
 # - certificate_url: https://www.edx.org
   # date_end: ""
   # date_start: "2021-01-01"
