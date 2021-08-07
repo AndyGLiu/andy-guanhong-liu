@@ -25,15 +25,15 @@ feature:
 - icon: laptop-code
   icon_pack: fas
   name: HTML, Website Design
+- icon: chart-bar
+  icon_pack: fas
+  name: Data Analysis
 - icon: language
   icon_pack: fas
   name: English, Mandarin, Japanese
 - icon: camera-retro
   icon_pack: fas
   name: Photography
-- icon: chart-bar
-  icon_pack: fas
-  name: Data Analysis
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
