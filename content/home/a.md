@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: a
+widget_id: lectures
 headless: true
 weight: 120
 title: ""
