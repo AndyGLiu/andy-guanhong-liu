@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: INVESTIGATE ARTISTS’ GENDER IN THE MOMA COLLECTION.
+title: INVESTIGATE ARTISTS’ GENDER IN THE MOMA COLLECTION.
+summary:
 tags:
-- Digital Humanities
+- "Digital Humanities"
 date: "2021-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
