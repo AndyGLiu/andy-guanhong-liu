@@ -1,10 +1,10 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: INVESTIGATE ARTISTS’ GENDER IN THE MOMA COLLECTION.
 authors: []
 tags: []
-categories: []
-date: "2019-02-05T00:00:00Z"
+categories: ["Digital Humanities"]
+date: "2021-07-30T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -158,9 +158,3 @@ Create `assets/css/reveal_custom.css` with:
 ```
 
 ---
-
-# Questions?
-
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
-
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
