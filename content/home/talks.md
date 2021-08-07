@@ -1,10 +1,10 @@
 ---
 widget: pages
-widget_id: a
+widget_id: Talks
 headless: true
 weight: 110
-title: Talks / Conference
-subtitle: Talk
+title: Talks
+subtitle: Lecture / Conference / Medium
 content:
   page_type: event
   count: 5
