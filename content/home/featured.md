@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: change
+widget_id: Featured Writings
 headless: true
 weight: 60
 title: Featured Writings
