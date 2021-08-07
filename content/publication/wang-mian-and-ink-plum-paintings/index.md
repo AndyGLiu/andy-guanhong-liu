@@ -23,7 +23,7 @@ tags:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: https://www.comuseum.com/wp-content/uploads/2016/05/wang-mian_ink-plum.jpg
 date: 2021-08-07T13:34:42.841Z
 url_slides: ""
