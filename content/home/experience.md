@@ -45,7 +45,7 @@ experience:
   - title: Art Curatorial Associate
     company: Berkeley Art Museum and Pacific Film Archive
     company_url: ''
-    company_logo: bampfa
+    company_logo: org-gc
     location: UC Berkeley
     date_start: '2019-09-01'
     date_end: ''
