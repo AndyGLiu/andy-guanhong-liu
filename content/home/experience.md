@@ -22,28 +22,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+
+  - title: Collections Apprenticeship, URAP Program
+    company: Phoebe A. Hearst Museum of Anthropology
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: org-P.H
+    location: UC Berkeley
+    date_start: '2020-01-01'
+    date_end: '2020-5-31'
+    description: Contribute to the care, organization, management and documentation of museum's vast collections.
+
+  - title: Art Curatorial Associate
+    company: Berkeley Art Museum and Pacific Film Archive
+    company_url: ''
+    company_logo: org-BAMPFA
+    location: UC Berkeley
+    date_start: '2019-09-01'
+    date_end: ''
+    description:
+      - Five Tables of Floorplan
+      - Five Tables of the Indian Ocean
+
+  - title: Research Assistant
+    company: Visualization Lab for Digital Art History
+    company_url: ''
+    company_logo: org-VLab
+    location: UC Berkeley
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Develop a digital catalogue for Byzantine Ivories Imagebank project and produce 3D images of artworks by photogrammetry.
+    
+  #- title: CEO
+    #company: GenCoin
+    #company_url: ''
+    #company_logo: org-gc
+    #location: California
+    #date_start: '2021-01-01'
+    #date_end: ''
+    #description: |2-
+        #Responsibilities include:
+        #
+        #* Analysing
+        #* Modelling
+        #* Deploying
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
