@@ -21,12 +21,13 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
 
   - title: Collections Apprenticeship, URAP Program
     company: Phoebe A. Hearst Museum of Anthropology
     company_url: ''
-    company_logo: org-PH
+    company_logo: org-x
     location: UC Berkeley
     date_start: '2020-01-01'
     date_end: '2020-5-31'
@@ -35,7 +36,7 @@ experience:
   - title: Art Curatorial Associate
     company: Berkeley Art Museum and Pacific Film Archive
     company_url: ''
-    company_logo: org-BA
+    company_logo: org-x
     location: UC Berkeley
     date_start: '2019-09-01'
     date_end: ''
@@ -46,26 +47,12 @@ experience:
   - title: Research Assistant
     company: Visualization Lab for Digital Art History
     company_url: ''
-    company_logo: org-VL
+    company_logo: org-x
     location: UC Berkeley
     date_start: '2021-01-01'
     date_end: ''
     description: Develop a digital catalogue for Byzantine Ivories Imagebank project and produce 3D images of artworks by photogrammetry.
     
-  #- title: CEO
-    #company: GenCoin
-    #company_url: ''
-    #company_logo: org-gc
-    #location: California
-    #date_start: '2021-01-01'
-    #date_end: ''
-    #description: |2-
-        #Responsibilities include:
-        #
-        #* Analysing
-        #* Modelling
-        #* Deploying
-        
 design:
   columns: '3'
 ---
