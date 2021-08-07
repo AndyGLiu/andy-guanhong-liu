@@ -22,14 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Collections Apprenticeship, URAP Program
+    company: Phoebe A. Hearst Museum of Anthropology
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
+    location: UC Berkeley
+    date_start: '2020-01-01'
+    date_end: '2020-5-31'
+    description: Contribute to the care, organization, management and documentation of museum's vast collections.
+    # description: |2-
         Responsibilities include:
         
         * Analysing
@@ -39,13 +40,14 @@ experience:
   - title: Art Curatorial Associate
     company: Berkeley Art Museum and Pacific Film Archive
     company_url: ''
-    company_logo: org-x
+    company_logo: bampfa
     location: UC Berkeley
     date_start: '2019-09-01'
     date_end: ''
     description: >-
       - Five Tables of Floorpan
       - Five Tables of the Indian Ocean
+
 design:
   columns: '2'
 ---
