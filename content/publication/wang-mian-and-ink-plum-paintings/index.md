@@ -21,6 +21,7 @@ url_video: ""
 tags:
   - Essays
 image:
+  url: https://www.comuseum.com/wp-content/uploads/2016/05/wang-mian_ink-plum.jpg
   caption: ""
   focal_point: ""
   preview_only: true
