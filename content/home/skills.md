@@ -31,9 +31,9 @@ feature:
 - icon: camera-retro
   icon_pack: fas
   name: Photography
-- icon: drone-alt
+- icon: chart-bar
   icon_pack: fas
-  name: Drone Photography
+  name: Data Analysis
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
