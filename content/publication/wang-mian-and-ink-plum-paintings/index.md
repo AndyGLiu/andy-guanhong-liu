@@ -12,7 +12,7 @@ publication_types:
 authors:
   - admin
   - 
-summary: Wang Mian, a later Yuan dynasty scholar, is the most pivotal and
+summary: Wang Mian, a later Yuan dynasty scholar, was the most pivotal and
   representational artist for the plum painting tradition.
 url_dataset: ""
 url_project: ""
