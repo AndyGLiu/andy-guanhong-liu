@@ -1,6 +1,6 @@
 ---
 title: A Pseudo Feminist Text: Investigate the Construction of the Female Images in Dan Brown’s Novel The Da Vinci Code
-summary: A computational literacy work investigating Dan Brwon's novel The Da Vinci Code.
+summary: 
 tags:
 - Digital Humanities
 date: "2021-08-16T00:00:00Z"
