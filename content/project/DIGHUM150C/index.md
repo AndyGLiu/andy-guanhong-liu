@@ -13,7 +13,6 @@ links:
   name: DIGHUM150C
   url: "https://github.com/AndyGLiu/DIGHUM-150C"
 url_code: ""
-url_code: "https://github.com/AndyGLiu/DIGHUM-150C"
 url_pdf: ""
 url_slides: ""
 url_video: ""
