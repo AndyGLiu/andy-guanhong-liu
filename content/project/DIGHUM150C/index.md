@@ -15,5 +15,6 @@ url_pdf: https://github.com/AndyGLiu/DIGHUM-150C
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+slides = ""
 ---
 This computational literacy analysis intends to uncover the essence of novel Da Vinci Code as a pseudo feminist text written by male author who seems to argue for women's rights in his book.
