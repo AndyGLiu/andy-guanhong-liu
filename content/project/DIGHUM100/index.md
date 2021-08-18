@@ -8,6 +8,7 @@ date: 2021-07-27T00:00:00Z
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+links:
 - icon: github
   icon_pack: fab
   name: DIGHUM100
@@ -20,4 +21,4 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 slides: DIGHUM100
 ---
-"This project aims to explore the degree of male dominance in the modern art field and to find out whether the situation gets better over time in the wave of recent decades’ movement advocating for gender equality and female rights."
+This project aims to explore the degree of male dominance in the modern art field and to find out whether the situation gets better over time in the wave of recent decades’ movement advocating for gender equality and female rights.
