@@ -18,4 +18,5 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+---
 This computational literacy analysis intends to uncover the essence of novel Da Vinci Code as a pseudo feminist text written by male author who seems to argue for women's rights in his book.
