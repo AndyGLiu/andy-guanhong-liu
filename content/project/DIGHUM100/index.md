@@ -20,4 +20,4 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 slides: DIGHUM100
 ---
-This project aims to explore the degree of male dominance in the modern art field and to find out whether the situation gets better over time in the wave of recent decades’ movement advocating for gender equality and female rights.
+"This project aims to explore the degree of male dominance in the modern art field and to find out whether the situation gets better over time in the wave of recent decades’ movement advocating for gender equality and female rights."
