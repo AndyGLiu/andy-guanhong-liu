@@ -8,8 +8,6 @@ date: 2021-07-27T00:00:00Z
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-url_slides: https://github.com/AndyGLiu/DIGHUM100/blob/main/DIGHUM%20100%20Slides%20Final.pptx
-
 - icon: github
   icon_pack: fab
   name: DIGHUM100
