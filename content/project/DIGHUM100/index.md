@@ -1,5 +1,5 @@
 ---
-title: "Investigate artists' gender in the MOMA collection"
+title: 
 summary:
 tags:
 - Digital Humanities
